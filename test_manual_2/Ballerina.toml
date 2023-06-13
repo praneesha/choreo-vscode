@@ -1,0 +1,8 @@
+[package]
+org = "PraneeshaWso2"
+name = "test_manual_2"
+version = "1.0.0"
+distribution = "2201.6.0"
+
+[build-options]
+observabilityIncluded = true
