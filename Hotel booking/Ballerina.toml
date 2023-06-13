@@ -1,6 +1,6 @@
 [package]
 org = "PraneeshaWso2"
-name = "Reservation_Notification"
+name = "Hotel_booking"
 version = "1.0.0"
 distribution = "2201.5.0"
 
